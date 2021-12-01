@@ -25,4 +25,7 @@ ggplot(iris) +
   geom_histogram(color= "firebrick4",
                  fill= "pink")
 ```
+```{r}
+y <- 5
+```
 
