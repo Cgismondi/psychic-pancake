@@ -19,3 +19,10 @@ x<-4
 x
 ```
 
+```{r}
+ggplot(iris) +
+  aes(x= Petal.Width) +
+  geom_histogram(color= "firebrick4",
+                 fill= "pink")
+```
+
