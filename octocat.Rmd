@@ -14,3 +14,8 @@ ggplot(iris) +
                  fill= "darkgreen")
 ```
 
+```{r}
+x<-4
+x
+```
+
